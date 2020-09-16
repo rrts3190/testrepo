@@ -1,1 +1,13 @@
-commit 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+commit 2_u
+=======
+commit Head
+>>>>>>> 38cb6bd... commit Head
+=======
+commit 2
+>>>>>>> 604227b... commit2
+=======
+commit Head
+>>>>>>> 38cb6bd... commit Head
