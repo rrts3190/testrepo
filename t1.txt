@@ -1,13 +1,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 71611450cd4dcda96662e189b1e0dee0ee61dc57
 commit 2_u
 =======
 commit Head
 >>>>>>> 38cb6bd... commit Head
 =======
+<<<<<<< HEAD
 commit 2
 >>>>>>> 604227b... commit2
 =======
 commit Head
 >>>>>>> 38cb6bd... commit Head
+=======
+commit Head
+>>>>>>> 38cb6bd250a7a27dda8e3a359cfa160451130cd1
+>>>>>>> 71611450cd4dcda96662e189b1e0dee0ee61dc57
