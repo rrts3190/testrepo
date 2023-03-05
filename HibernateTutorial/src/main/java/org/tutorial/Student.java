@@ -14,7 +14,7 @@ import org.hibernate.annotations.CacheConcurrencyStrategy;
 
 @Entity(name = "student_details")
 @Cacheable
-@Cache(usage = CacheConcurrencyStrategy.READ_ONLY, region = "student")
+@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE, region = "student")
 public class Student
 {
     @Id
